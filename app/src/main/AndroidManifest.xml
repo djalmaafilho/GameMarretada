@@ -32,6 +32,12 @@
             >
         </activity>
         <activity
+            android:name="com.example.gamemarretada.RecordListViewActivity"
+            android:label="@string/app_name"
+            android:configChanges="orientation"
+            >
+        </activity>
+        <activity
             android:name="com.example.gamemarretada.MainActivity"
             android:label="@string/app_name"
             android:configChanges="orientation"

@@ -23,4 +23,8 @@ public class InicioActivity extends Activity {
     public void pontos(View v ){
         startActivity(new Intent(this, RecordActivity.class));
     }
+
+    public void pontosListView(View v ){
+        startActivity(new Intent(this, RecordListViewActivity.class));
+    }
 }

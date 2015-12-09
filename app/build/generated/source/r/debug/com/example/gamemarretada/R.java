@@ -831,12 +831,13 @@ containing a value of this type.
         public static final int action_menu_divider=0x7f080001;
         public static final int action_menu_presenter=0x7f080002;
         public static final int action_mode_close_button=0x7f080024;
-        public static final int action_settings=0x7f08004f;
+        public static final int action_settings=0x7f080051;
         public static final int activity_chooser_view_content=0x7f080025;
         public static final int always=0x7f080013;
         public static final int beginning=0x7f08000f;
-        public static final int btJogar=0x7f08004b;
-        public static final int btPontos=0x7f08004c;
+        public static final int btJogar=0x7f08004c;
+        public static final int btPontos=0x7f08004d;
+        public static final int btPontosListView=0x7f08004e;
         public static final int btVida1=0x7f08003f;
         public static final int btVida2=0x7f080040;
         public static final int btVida3=0x7f080041;
@@ -867,6 +868,7 @@ containing a value of this type.
         public static final int lilRecords=0x7f08004a;
         public static final int listMode=0x7f080006;
         public static final int list_item=0x7f080029;
+        public static final int livRecords=0x7f08004b;
         public static final int middle=0x7f080011;
         public static final int never=0x7f080016;
         public static final int none=0x7f080012;
@@ -895,8 +897,8 @@ containing a value of this type.
         public static final int textViewTempo=0x7f08003e;
         public static final int title=0x7f08002b;
         public static final int top_action_bar=0x7f080020;
-        public static final int txtNumero=0x7f08004d;
-        public static final int txtRecord=0x7f08004e;
+        public static final int txtNumero=0x7f08004f;
+        public static final int txtRecord=0x7f080050;
         public static final int up=0x7f080021;
         public static final int useLogo=0x7f08000e;
         public static final int withText=0x7f080017;
@@ -931,9 +933,10 @@ containing a value of this type.
         public static final int abc_simple_decor=0x7f030017;
         public static final int activity_main=0x7f030018;
         public static final int activity_records=0x7f030019;
-        public static final int inicio_layout=0x7f03001a;
-        public static final int linha_records=0x7f03001b;
-        public static final int support_simple_spinner_dropdown_item=0x7f03001c;
+        public static final int activity_records_listview=0x7f03001a;
+        public static final int inicio_layout=0x7f03001b;
+        public static final int linha_records=0x7f03001c;
+        public static final int support_simple_spinner_dropdown_item=0x7f03001d;
     }
     public static final class menu {
         public static final int main=0x7f0c0000;
